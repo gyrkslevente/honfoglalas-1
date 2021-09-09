@@ -60,14 +60,14 @@ body {
 
 #home {
     background-image: url('img/Távoli_nyilzápor.jpg');
-    color: #585656;
+    color: #58675;
 }
 
 #home h1 {
     padding-top: 30vh;
     font-size: 3rem;
     font-weight: bold;
-    font-color: red;
+   
 }
 
 h2 {
